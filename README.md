@@ -52,7 +52,6 @@ Here is a summary of the projects included in this repository. Each project has 
 | **House Price Prediction** | A model to predict the sale price of houses based on various features. | Linear Regression, Lasso Regression | ` |
 | **Customer Churn Analysis** | A classification model to identify customers likely to stop using a service. | Logistic Regression, Random Forest |  |
 | **Credit Fraud Detection** | A high-performance model to detect fraudulent credit card transactions. | XGBoost, SVM Classifier |  |
-| **Bike Sharing Demand** | A regression model to forecast the daily demand for a bike-sharing program. | Random Forest Regressor |  |
 | **Customer Segmentation** | An unsupervised model to group customers into distinct segments for targeted marketing. | K-Means Clustering |  |
 | **Spam Email Classifier** | A model to classify emails as either spam or not spam. | Support Vector Machine (SVM) | |
 
